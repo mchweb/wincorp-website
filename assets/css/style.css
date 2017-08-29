@@ -3426,7 +3426,8 @@ header.header--page:after {
 }
 .event__date {
     float: left;
-    margin-right: 3em
+    margin-right: 3em;
+    min-width: 40%;
 }
 @media (max-width: 1000px) {
     .event__image-block:after {
